@@ -1,5 +1,0 @@
-function pasture_pals:blocks/farmers_workbench/crafting_succeed
-
-data merge block ~ ~ ~ {Items:[]}
-
-summon item ~ ~1 ~ {Item:{id:"minecraft:leather_boots",count:1,components:{"minecraft:custom_data":{pasture_pals:{item:"winter_boots"}},"minecraft:dyed_color":16777215,"tooltip_display":{hidden_components:["minecraft:dyed_color","attribute_modifiers"]},"minecraft:attribute_modifiers":[{id:"armor",type:"armor",amount:3,operation:"add_value",slot:"feet"},{id:"armor_toughness",type:"armor_toughness",amount:2,operation:"add_value"}],"minecraft:item_name":"Snow Boots","minecraft:lore":[{"color":"gray","text":"When on Feet:",italic:false},{"color":"blue","text":" +40% Speed on Snow",italic:false},{"color":"blue","text":" +3 Armor",italic:false},{"color":"blue","text":" +2 Armor Tougness",italic:false}]}},Motion:[0.0,0.135,0.0]}

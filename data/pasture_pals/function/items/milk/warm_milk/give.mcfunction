@@ -1,3 +1,0 @@
-give @s potion[custom_name={"text":"Bucket of Warm Milk",italic:false},item_model="minecraft:milk/warm_milk",lore=[{"color":"gray","italic":false,"text":"When Applied:"},{"color":"blue","italic":false,"text":" Strength II (0:15)"}],custom_data={pasture_pals:[{item:"warm_milk"},{"is_custom":"true"}]},use_remainder={id:"minecraft:bucket",count:1},potion_contents={potion:"minecraft:mundane"},tooltip_display={hidden_components:["potion_contents"]}] 1
-tag @s add pp.milked_cow
-schedule function pasture_pals:items/milk/clear_milk 1t

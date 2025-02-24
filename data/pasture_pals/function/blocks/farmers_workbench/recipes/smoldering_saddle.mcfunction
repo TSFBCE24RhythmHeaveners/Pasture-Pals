@@ -1,5 +1,0 @@
-function pasture_pals:blocks/farmers_workbench/crafting_succeed
-
-data merge block ~ ~ ~ {Items:[]}
-
-summon item ~ ~1 ~ {Item:{id:"minecraft:saddle",count:1,components:{"minecraft:attribute_modifiers":[{id:"0d940e69-ba33-4a57-994d-e751c98e2011",type:"movement_speed",amount:0.4,operation:"add_value",slot:"armor"},{id:"bbba1740-2ce7-464b-9ca1-4e921cd5fc97",type:"safe_fall_distance",amount:10,operation:"add_value",slot:"armor"},{id:"7bda5526-4644-4cc2-8b8b-61ff16f854ec",type:"jump_strength",amount:0.3,operation:"add_value",slot:"armor"}],"minecraft:item_model":"minecraft:smoldering_saddle","minecraft:item_name":{"italic":false,"text":"Smoldering Saddle"},"minecraft:lore":[{"italic":false,"color":"gray","text":"When equipped on Mount:"},{"italic":false,"color":"blue","text":" Speed Bonus"},{"italic":false,"color":"blue","text":" Health Bonus"}],"minecraft:custom_data":{pasture_pals:{item:"smoldering_saddle"}},tooltip_display:{hidden_components:["attribute_modifiers"]}}},Motion:[0.0,0.135,0.0]}
