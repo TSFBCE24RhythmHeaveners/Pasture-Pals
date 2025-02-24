@@ -1,4 +1,4 @@
-# Pasture Pals! | More Animal Variants! 🐄🐖🐺🐔  
+# TSFBLC64's Mob Variants! | More Animal Variants! 🐄🐖🐺🐔  
 
 #### *This data pack will only function on snapshot 25w05a and onwards. Snapshot versions are experimental! You risk data loss if you decide to upgrade your survival world to 25w05a or 25w06a.*  
 
