@@ -1,0 +1,20 @@
+{
+    "music_disc.applause":
+    {
+        "sounds": [
+            {
+                "name": "records/applause"
+            }
+        ],
+        "subtitle": "Ready up! Server opens soon..."
+    },
+    "music_disc.you_dont_own_me":
+    {
+        "sounds": [
+            {
+                "name": "records/you_dont_own_me"
+            }
+        ],
+        "subtitle": "Ready up! Server opens soon..."
+    }
+}
