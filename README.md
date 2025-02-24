@@ -8,7 +8,7 @@ Pasture Pals adds **10 new Cow variants, 8 new Pig & Chicken variants, and a new
 - **🐄 10 new Cow variants:** Albino, Ashen, Cookie, Cream, Dairy, Moobloom, Moolip, Pinto, Sunset, Umbra, and Wooly  
 - **🐖 8 new Pig variants:** Dried Muddy, Mottled, Muddy, Pale, Piebald, Pink-footed, Sooty, and Spotted  
 - **🐔 8 new Chicken variants:** Amber, Bronzed, Cluckshroom, Fancy Chicken, Gold Crested Chicken, Midnight, Skewbald, and Stormy  
-- **🐶 New Wolf variant:** Skeleton Wolf  
+- **🐶 2 New Wolf variants:** Skeleton, and Ethiopian  
 - 🎮 **Unique gameplay:** Check out the gameplay section below!  
 
 **P.S**: View Crafting Recipes on the [GitHub](https://github.com/sagedontgo/Pasture-Pals) page!  
@@ -59,7 +59,8 @@ Pasture Pals adds **10 new Cow variants, 8 new Pig & Chicken variants, and a new
 
 ## 🐶 Pets!  
 
-- **Skeleton Wolf:** A bony wolf that spawns in all forest biomes.  
+- **Skeleton Wolf:** A bony wolf that spawns in all swamp biomes.
+- **Ethiopian Wolf:** A wolf that has red and white fur.
 
 ---
 
@@ -79,11 +80,12 @@ Pasture Pals adds **10 new Cow variants, 8 new Pig & Chicken variants, and a new
 
 ## 💖 Credits & Final Notes  
 
-- Bug reports should go on the [GitHub](https://github.com/sagedontgo/Pasture-Pals) page! Open an issue there.  
+- Bug reports should go on the [GitHub](https://github.com/sagedontgo/Pasture-Pals) or [Alternative](https://github.com/TSFBCE24RhythmHeaveners/Pasture-Pals/) pages! Open an issue there.  
 - Many of these assets and variants come from the discontinued **Minecraft Earth**! I do not take credit for these.  
 - This data pack has more to come! Let me know your suggestions for future versions.  
-- Once **1.21.5** releases, I’ll work on **Custom Entity Models** for the Moobloom, Moolip, Muddy Pig, and Fancy Chicken!  
+- Once **1.21.5** releases, We'll work on **Custom Entity Models** for the Moobloom, Moolip, Muddy Pig, and Fancy Chicken!  
 
-*Follow me on my socials!*  
+*Follow the collaborator on her socials!*  
 **Twitter:** @sagedontgo  
 **TikTok:** @sagedontgo  
+
