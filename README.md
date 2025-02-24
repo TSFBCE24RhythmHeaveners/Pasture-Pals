@@ -2,7 +2,7 @@
 
 #### *This data pack will only function on snapshot 25w05a and onwards. Snapshot versions are experimental! You risk data loss if you decide to upgrade your survival world to 25w05a or 25w06a.*  
 
-Pasture Pals adds **10 new Cow variants, 8 new Pig & Chicken variants, and a new Wolf variant** which spawn naturally in the overworld! If farming is boring and you need something to do, it's time to get out there and collect each and every variant!  
+Mob Variants adds **10 new Cow variants, 8 new Pig & Chicken variants, and a new Wolf variant** which spawn naturally in the overworld! If farming is boring and you need something to do, it's time to get out there and collect each and every variant!  
 
 ## 📌 Features  
 - **🐄 10 new Cow variants:** Albino, Ashen, Cookie, Cream, Dairy, Moobloom, Moolip, Pinto, Sunset, Umbra, and Wooly  
@@ -11,7 +11,7 @@ Pasture Pals adds **10 new Cow variants, 8 new Pig & Chicken variants, and a new
 - **🐶 2 New Wolf variants:** Skeleton, and Ethiopian  
 - 🎮 **Unique gameplay:** Check out the gameplay section below!  
 
-**P.S**: View Crafting Recipes on the [GitHub](https://github.com/sagedontgo/Pasture-Pals) page!  
+**P.S**: View Crafting Recipes on the [GitHub](https://github.com/sagedontgo/Pasture-Pals) or [Alternative](https://github.com/TSFBCE24RhythmHeaveners/Pasture-Pals/) pages!
 
 ---
 
@@ -60,7 +60,7 @@ Pasture Pals adds **10 new Cow variants, 8 new Pig & Chicken variants, and a new
 ## 🐶 Pets!  
 
 - **Skeleton Wolf:** A bony wolf that spawns in all swamp biomes.
-- **Ethiopian Wolf:** A wolf that has red and white fur.
+- **Ethiopian Wolf:** A wolf that has red and white fur. It spawns in forests.
 
 ---
 
